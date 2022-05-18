@@ -1,0 +1,225 @@
+
+* {
+    margin: 0;
+}
+/* @import url('https://fonts.googleapis.com/css2?family=Just+Another+Hand&family=Pacifico&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Just+Another+Hand&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+/* navbar */
+
+#topnavbar {
+    padding: 10px;
+}
+
+#navtitle {
+    color: black;
+    font-size: large;
+    font-weight: 400;
+    display: block;
+    font-size: 17px;
+    line-height: 26px;
+    text-decoration: none;
+    text-transform: uppercase;
+    position: relative;
+    /* padding: 27px ; */
+    line-height: 56px;
+    
+}
+body{
+    /* background-image: url(./Images/bg.png); */
+}
+
+
+#navtitle:hover {
+    color: gold;
+}
+
+#i1:hover {
+    color: gold;
+}
+
+/* carousal */
+.first {
+    height: 730px;
+}
+
+.toptitle {
+    color: black;
+    font-size: 50px;
+    line-height: 56px;
+    padding-bottom: 20px;
+    font-weight: 500;
+    font-style: normal;
+    margin-top: 0px;
+}
+
+.toppara {
+    color: black;
+}
+
+#a1 {
+    text-align: left;
+}
+
+#button1:hover {
+    background-color: white;
+
+}
+/* carousal image */
+
+#ig1 {
+    height: 658px;
+}
+
+/* hot section*/
+.grid {
+    display: flex;
+    justify-content: center;
+}
+
+#ig2:hover {
+    transform: scale(1.03);
+
+}
+
+.next {
+    height: 610px;
+}
+
+.title3:hover {
+    color: gold;
+}
+
+#button2 {
+    margin-left: 6rem;
+
+}
+
+#button2:hover {
+    background-color: white;
+
+}
+
+/* baking */
+
+/* image */
+#ig3{
+    width: 500px;
+
+}
+#ig4{
+    width: 400px;
+
+}
+#ig5{
+    width: 90px;
+    height: 70px;
+    margin-top: 17px;
+}
+
+.third{
+    height: 1060px;
+}
+
+/* menu */
+
+.ig6 {
+    width: 176px;
+    height: 123px;
+
+}
+.ig6:hover{
+    transform: scale(1.05);
+}
+
+
+
+/* gallery */
+
+#ig7{
+    width: 300px; 
+    height: 300px;
+    padding: 10px;
+    padding-top: 60px;
+}
+#ig7:hover {
+    transform: scale(1.05);
+
+}
+.fourth{
+    height: 1280px;
+}
+
+/* delivery */
+
+.grid1 {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+#ig8{
+    width: 100px; 
+    padding: 10px;
+    padding-top: 60px;
+}
+
+#ig9{
+    margin-top: 100px;
+    margin-left: 200px;
+    width: 150px;
+}
+.fifth{
+    height: 600px;
+}
+
+
+/* instagram */
+
+#ig10{
+    width: 345px;
+    padding: 10px;
+    padding-top: 60px;
+}
+
+#ig10:hover{
+    transform: scale(1.05);
+}
+
+.sixth{
+    height: 1100px;
+}
+
+/* map */
+
+.grid2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+.seven{
+    height: 500px;
+}
+
+/* footer */
+
+.eight{
+    background-color: rgb(33, 31, 31);
+    color: white;
+    height: 250px;
+    padding: 10px;
+}
+
+.grid3 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 50px;
+}
+
+h1,h2,h3,h4,h5,h6{
+    /* font-family: 'Pacifico', cursive; */
+    /* font-family: 'Just Another Hand', cursive; */
+    /* font-family: 'Patrick Hand', cursive; */
+    font-family: fantasy;
+}
+
