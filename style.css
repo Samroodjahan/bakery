@@ -1,7 +1,7 @@
-
 * {
     margin: 0;
 }
+
 /* @import url('https://fonts.googleapis.com/css2?family=Just+Another+Hand&family=Pacifico&display=swap'); */
 /* @import url('https://fonts.googleapis.com/css2?family=Just+Another+Hand&display=swap'); */
 @import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
@@ -22,10 +22,11 @@
     text-transform: uppercase;
     position: relative;
     /* padding: 27px ; */
-    line-height: 56px;
-    
+    /* line-height: 56px; */
+
 }
-body{
+
+body {
     /* background-image: url(./Images/bg.png); */
 }
 
@@ -39,9 +40,7 @@ body{
 }
 
 /* carousal */
-.first {
-    height: 730px;
-}
+
 
 .toptitle {
     color: black;
@@ -51,6 +50,7 @@ body{
     font-weight: 500;
     font-style: normal;
     margin-top: 0px;
+
 }
 
 .toppara {
@@ -65,25 +65,60 @@ body{
     background-color: white;
 
 }
+
 /* carousal image */
 
 #ig1 {
     height: 658px;
 }
 
-/* hot section*/
-.grid {
-    display: flex;
-    justify-content: center;
+
+
+
+/* image */
+#ig3 {
+    width: 500px;
+
 }
+
+#ig4 {
+    width: 400px;
+
+}
+
+#ig5 {
+    width: 90px;
+    height: 70px;
+    margin-top: 17px;
+}
+
+
+
+
+/* footer */
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    /* font-family: 'Pacifico', cursive; */
+    /* font-family: 'Just Another Hand', cursive; */
+    /* font-family: 'Patrick Hand', cursive; */
+    font-family: fantasy;
+}
+
+section {
+    padding-top: 80px;
+    padding-bottom: 40px;
+}
+/* hot section*/
 
 #ig2:hover {
-    transform: scale(1.03);
+    transform: scale(1.01);
 
-}
-
-.next {
-    height: 610px;
 }
 
 .title3:hover {
@@ -101,125 +136,70 @@ body{
 }
 
 /* baking */
-
-/* image */
-#ig3{
-    width: 500px;
-
-}
-#ig4{
-    width: 400px;
-
-}
-#ig5{
+#ig5 {
     width: 90px;
     height: 70px;
     margin-top: 17px;
 }
 
-.third{
-    height: 1060px;
+.bake-box {
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
 }
 
 /* menu */
 
+/* logo black images */
 .ig6 {
-    width: 176px;
+    /* width: 176px; */
     height: 123px;
-
 }
-.ig6:hover{
+
+.ig6:hover {
     transform: scale(1.05);
 }
-
 
 
 /* gallery */
 
-#ig7{
-    width: 300px; 
+/* food menu images */
+#ig7 {
+    /* width: 300px; */
     height: 300px;
     padding: 10px;
     padding-top: 60px;
 }
+
 #ig7:hover {
     transform: scale(1.05);
 
 }
-.fourth{
-    height: 1280px;
-}
 
 /* delivery */
 
-.grid1 {
-    display: flex;
-    justify-content: space-evenly;
-    
-}
-
-#ig8{
-    width: 100px; 
+/* logo green image*/
+#ig8 {
+    width: 100px;
     padding: 10px;
     padding-top: 60px;
 }
 
-#ig9{
+/* driver image */
+#ig9 {
     margin-top: 100px;
-    margin-left: 200px;
-    width: 150px;
+    /* margin-left: 200px; */
+    width: 168px;
 }
-.fifth{
-    height: 600px;
-}
-
 
 /* instagram */
 
-#ig10{
+#ig10 {
     width: 345px;
     padding: 10px;
     padding-top: 60px;
 }
 
-#ig10:hover{
+#ig10:hover {
     transform: scale(1.05);
 }
-
-.sixth{
-    height: 1100px;
-}
-
-/* map */
-
-.grid2 {
-    display: flex;
-    justify-content: space-evenly;
-}
-.seven{
-    height: 500px;
-}
-
-/* footer */
-
-.eight{
-    background-color: rgb(33, 31, 31);
-    color: white;
-    height: 250px;
-    padding: 10px;
-}
-
-.grid3 {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    margin-top: 50px;
-}
-
-h1,h2,h3,h4,h5,h6{
-    /* font-family: 'Pacifico', cursive; */
-    /* font-family: 'Just Another Hand', cursive; */
-    /* font-family: 'Patrick Hand', cursive; */
-    font-family: fantasy;
-}
-
