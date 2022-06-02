@@ -2,10 +2,7 @@
     margin: 0;
 }
 
-/* @import url('https://fonts.googleapis.com/css2?family=Just+Another+Hand&family=Pacifico&display=swap'); */
-/* @import url('https://fonts.googleapis.com/css2?family=Just+Another+Hand&display=swap'); */
-@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
-/* navbar */
+* navbar */
 
 #topnavbar {
     padding: 10px;
@@ -104,10 +101,7 @@ h3,
 h4,
 h5,
 h6 {
-    /* font-family: 'Pacifico', cursive; */
-    /* font-family: 'Just Another Hand', cursive; */
-    /* font-family: 'Patrick Hand', cursive; */
-    font-family: fantasy;
+    /* font-family: 'Righteous', cursive; */
 }
 
 section {
